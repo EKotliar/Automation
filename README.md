@@ -1,2 +1,2 @@
 # Automation
-Used fro Automation practice
+Used for Automation practice
