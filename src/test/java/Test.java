@@ -27,7 +27,7 @@ public class Test {
         AndroidDriver<AndroidElement>driver=new AndroidDriver<>(new URL("http://127.0.0.1:4723/wd/hub"), cap);
         Thread.sleep(10000);
 
-        //driver.findElementByClassName("android.widget.TextView"@ )
+        //driver.findElementByClassName("android.widget.TextView"@ ) ;
         
 
         driver.quit();
