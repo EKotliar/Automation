@@ -1,3 +1,2 @@
 # Automation
-Used for Automation practice and branch creation
-blabla
+Used for Automation practice
