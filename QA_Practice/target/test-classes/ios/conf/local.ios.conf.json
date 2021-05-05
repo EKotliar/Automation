@@ -1,0 +1,13 @@
+{
+  "capabilities": {
+    "app": "src/test/resources/ios/applications/BStackSamleApp.ipa"
+  },
+
+  "environments": {
+    "google_pixel_3": {
+      "deviceName": "iPhone 6S",
+      "udid": "XXXXXX",
+      "os": "XXXXX"
+    }
+  }
+}
